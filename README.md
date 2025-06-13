@@ -20,7 +20,7 @@ The **Cat Language Translator** is an innovative web application designed to bri
 ## Author
 **Name:** Your A/C Name  
 **Email:** Your A/C Email ID  
-**Website:** Cat Language Translator  
+**Website:** [cat language translator](https://www.cattranslator.org)
 
 **About the Author:**  
 A seasoned developer passionate about AI-driven solutions, specializing in deep learning and sentiment analysis. With over a decade of experience in web and app development, they aim to make communication between species effortless.
